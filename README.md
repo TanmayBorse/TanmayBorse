@@ -12,14 +12,14 @@
   -  **Data Analysis:** Exploring data science tools, techniques, and statistical analysis.
   -  **Cloud Computing:** Diving into cloud platforms, infrastructure, and services to build scalable applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TanmayBorse](https://github.com/TanmayBorse)
+### 👨‍💻 All of my projects are available at [https://github.com/TanmayBorse](https://github.com/TanmayBorse)
 
 ### 🚀 Skills I'm developing:
 - Python, R for data manipulation and visualization.
 - SQL for database queries.
 - AWS, Azure for cloud computing.
 
-- 📫 How to reach me **tanmayborse171@gmail.com**
+### 📫 How to reach me **tanmayborse171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
