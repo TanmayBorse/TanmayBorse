@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tanmay Borse</h1>
 <h3 align="center">I am a M. Tech student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayborse" alt="tanmayborse" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayborse&theme=onedark" alt="tanmayborse" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tanmayborse1" target="blank"><img src="https://img.shields.io/twitter/follow/tanmayborse1?logo=twitter&style=for-the-badge" alt="tanmayborse1" /></a> </p>
+<p align="left">
+  <a href="https://https://www.linkedin.com/in/tanmay-borse-8285031a4/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+### 🔭 I’m currently working on [Stock Market Prediction using ML and DL](https://github.com/TanmayBorse/BE_Project)
 
-- 🔭 I’m currently working on [Stock Market Prediction using ML and DL](https://github.com/TanmayBorse/BE_Project)
-
-- 🌱 I’m currently learning **Data analysis and cloud computing**
+### 🌱 What I'm currently learning:
+  -  **Data Analysis:** Exploring data science tools, techniques, and statistical analysis.
+  -  **Cloud Computing:** Diving into cloud platforms, infrastructure, and services to build scalable applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanmayBorse](https://github.com/TanmayBorse)
 
-- 💬 Ask me about **Data science and Data structures**
+### 🚀 Skills I'm developing:
+- Python, R for data manipulation and visualization.
+- SQL for database queries.
+- AWS, Azure for cloud computing.
 
 - 📫 How to reach me **tanmayborse171@gmail.com**
 
