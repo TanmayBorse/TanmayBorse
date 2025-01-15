@@ -5,7 +5,7 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/tanmay-borse-8285031a4/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
-### 🔭 I’m currently working on 
+### 🔭 Recently Worked Project
   - [House Price Prediction in Metro City](https://github.com/TanmayBorse/price-project)
 
 ### 🌱 What I'm currently learning:
