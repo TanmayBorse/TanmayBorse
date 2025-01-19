@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayborse&theme=onedark" alt="tanmayborse" /></a> </p>
 
-<p align="left"><a href="https://www.linkedin.com/in/tanmay-borse-8285031a4/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/TanmayBorse171/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 ### 🔭 Recently Worked Project
   - [Pune House Price Prediction](https://github.com/TanmayBorse/price-project)
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanmayborse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmayborse1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tanmay-borse-8285031a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmay-borse-8285031a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/TanmayBorse171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/TanmayBorse171/" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmay.171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay.171" height="30" width="40" /></a>
 <a href="https://medium.com/@tanmayborse171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmayborse171" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmayborse171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanmayborse171" height="30" width="40" /></a>
