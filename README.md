@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayborse&theme=onedark" alt="tanmayborse" /></a> </p>
 
-<p align="left"><a href="https://www.linkedin.com/in/TanmayBorse171/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/tanmayborse171/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 ### 🔭 Recently Worked Project
   - [Pune House Price Prediction](https://github.com/TanmayBorse/price-project)
