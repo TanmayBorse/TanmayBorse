@@ -6,7 +6,7 @@
 <p align="left"><a href="https://www.linkedin.com/in/tanmayborse171/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 ### 🔭 Recently Worked Project
-  - [Pune House Price Prediction](https://github.com/TanmayBorse/price-project)
+  - [Decision-Making Model Using Rough Sets and Soft Sets on Intuitionistic Fuzzy Approximation Space]([https://github.com/TanmayBorse/price-project](https://github.com/TanmayBorse/Institionistic_fuzzy_approx_space)
 
 ### 🌱 What I'm currently learning:
   -  **Data Analysis:** Exploring data science tools, techniques, and statistical analysis.
